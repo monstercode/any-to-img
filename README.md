@@ -1,5 +1,5 @@
 # anytoimg
-Transform mp3 to bmp and vice versa
+Transform any file an image and vice versa
 
 
 Install Pillow
