@@ -5,7 +5,7 @@ Transform any file an to image and vice versa
 Install Pillow
 
 ```bash
-sudo pip3 install pillow
+pip3 install pillow
 ```
 
 Usage:
